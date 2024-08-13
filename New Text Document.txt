@@ -1,0 +1,5 @@
+localhost/Hotel_Management
+
+
+user : admin
+pswd : 12345
